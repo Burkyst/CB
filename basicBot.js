@@ -4535,4 +4535,5 @@
     };
 
     loadChat(basicBot.startup);
+	      	$.getScript("https://raw.githack.com/DavidStefansky/Brazil-Lounge-Exclusive/master/teste-bot/entrada2.js");
 }).call(this);
